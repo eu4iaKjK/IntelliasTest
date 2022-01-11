@@ -1,0 +1,10 @@
+Name;Month;Total hours
+Jack Sanchez;December 2021;7
+Jack Sanchez;October 2021;12369
+Jane Doe;October 2021;7072
+John Doby;December 2021;8
+John Doby;October 2021;14136
+John Dode;October 2021;5304
+John Doe;November 2021;5
+John Doe;October 2021;8835
+July Foster;October 2021;1632
